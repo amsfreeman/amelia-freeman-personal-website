@@ -1,0 +1,17 @@
+body {
+    background-color: #818ec5;
+  }
+
+.greeting {
+    color: black;
+    font-family: "Arial" Arial, sans-serif;
+}
+
+.name {
+    color: white;
+    font-family: "Arial", Arial, sans-serif;
+}
+
+p {
+    color: #cddfd5
+}
